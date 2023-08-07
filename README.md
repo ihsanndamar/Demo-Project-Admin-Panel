@@ -25,3 +25,12 @@ This project is an admin panel application developed using .NET Core 6 for the b
 
 - User data is stored in MySQL.
 - Configuration data is stored in DynamoDB.
+
+## Ekran Görüntüleri
+
+![Login](https://github.com/ihsanndamar/Demo-Project-Admin-Panel/blob/master/Screenshots/login.PNG)
+![Register](https://github.com/ihsanndamar/Demo-Project-Admin-Panel/blob/master/Screenshots/register.PNG)
+![Configuration](https://github.com/ihsanndamar/Demo-Project-Admin-Panel/blob/master/Screenshots/config.PNG)
+
+
+
